@@ -1,0 +1,11 @@
+[database]
+user = <<db_user_name>> 
+password = <<db_password>>
+host = <<db_host>>
+database = <<db_schema>>
+
+[api]
+api_host = https://<<your_host>>.looker.com
+api_client_id = <<api_client_id>> 
+api_secret = <<api_secret>> 
+api_port= 19999
