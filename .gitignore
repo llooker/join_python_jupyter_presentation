@@ -63,5 +63,6 @@ target/
 logs/
 docs/
 .vscode/
+.ipynb_checkpoints/
 
 config
